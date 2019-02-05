@@ -1,0 +1,14 @@
+
+1. What is a function literal?
+Its the definition of the function
+function(){return this * 2;};
+
+2. What is the constructor?
+The constructor is a function that contains different properties or . 
+
+3. What does the return statement do?
+The return statement ends the function and gives a specific value to the caller
+
+4. What will be written to the console from this function
+“inside my function” because the return statement ends the function.
+
